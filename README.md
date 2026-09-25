@@ -1,16 +1,31 @@
-## Hi there 👋
+# Rohit Singh
+Full Stack Developer building web applications and AI-powered products.
+I work primarily with React, Java, Spring Boot and modern AI technologies.
 
-<!--
-**Rohit08-singh/Rohit08-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+**Frontend**
+React · JavaScript · TypeScript · Tailwind CSS
+**Backend**
+Java · Spring Boot · Node.js · REST APIs
+**Database**
+MongoDB · MySQL
+**AI**
+LLMs · RAG · Vector Databases
 
-Here are some ideas to get you started:
+**Tools**
+Git · GitHub · Docker
+## Featured Projects
+### Workflow AI
+AI-powered business management platform for projects, clients and intelligent workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Email Reply Assistant
+AI-powered application for generating contextual and professional email replies.
+
+### PHDFWF Website
+Responsive website redevelopment project for the PHD Family Welfare Foundation.
+
+## Currently
+
+Building full-stack applications and exploring AI-powered product development.
+
+[Portfolio](https://rohit-orbit.netlify.app) · [LinkedIn](YOUR_LINKEDIN_URL)
